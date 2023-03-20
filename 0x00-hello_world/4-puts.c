@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - writting a new program followed by printing exactly a new line
  * Return: 0 (success)
