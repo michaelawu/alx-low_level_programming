@@ -8,7 +8,7 @@
  * Return: largest number
  */
 
-lnt largest_number(int a, int b, int c,)
+lnt largest_number(int a, int b, int c)
 {
 	int largest;
 
@@ -28,5 +28,6 @@ lnt largest_number(int a, int b, int c,)
 	{
 		largest = c;
 	}
+
 return (largest);
 }
