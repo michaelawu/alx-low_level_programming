@@ -5,16 +5,15 @@
  *
  * Return: Always 0.
  */
-void print_numbers(void);
-
+int main(void)
 {
-    print_numbers(98);
+    print_number(98);
     _putchar('\n');
-    print_numbers(402);
+    print_number(402);
     _putchar('\n');
-    print_numbers(1024);
+    print_number(1024);
     _putchar('\n');
-    print_numbers(0);
+    print_number(0);
     _putchar('\n');
     print_number(-98);
     _putchar('\n');
