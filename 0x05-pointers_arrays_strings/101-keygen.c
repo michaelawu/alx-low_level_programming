@@ -7,7 +7,7 @@
  * passwords for the program 101-crackme
  * Return: Always 0 (Success)
  */
-intb main(void)
+int main(void)
 {
 	int pass[100];
 	int i, sum, n;
