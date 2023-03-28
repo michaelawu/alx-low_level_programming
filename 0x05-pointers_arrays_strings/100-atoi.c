@@ -2,7 +2,6 @@
 /**
  * _atoi - a funtion that convert a string to an integer
  * @s: string to be converted
- *
  * Return: the int converted from the string
  */
 int _atoi(char *s)
@@ -40,5 +39,5 @@ int _atoi(char *s)
 	if (f == 0)
 		return (0);
 
-	Return (n);
+	return (n);
 }
