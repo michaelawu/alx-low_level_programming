@@ -5,7 +5,7 @@
  * reverse_array - content of an array of integers
  * @a: array
  * @n: number of element of an array
- * Return:void
+ * Return: void
  */
 void reverse_array(int *a, int n)
 {
