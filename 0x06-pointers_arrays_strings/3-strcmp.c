@@ -6,7 +6,7 @@
  * @s2: input value
  * Return: s1[i] - s2[i]
  */
-char *_strcmp(char *s1, char *s2)
+char _strcmp(char *s1, char *s2)
 {
 	int i;
 
